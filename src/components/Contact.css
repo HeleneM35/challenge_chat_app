@@ -30,7 +30,7 @@
 
   .status {
       display: flex;
-      align-items: center;
+      align-items: baseline;
   }
   
   /* Status (rounded&colored indicator) */
